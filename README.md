@@ -1,1 +1,1 @@
-# JavaScript_Project for JookeBox
+# JavaScript Project for JookeBox
