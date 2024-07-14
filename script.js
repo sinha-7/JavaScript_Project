@@ -80,7 +80,7 @@ function loadData() {
 const storedData = localStorage.getItem('task');
 if (storedData) {
   task = JSON.parse(storedData);
-  displayTask();
+  displayTask(task);
 }
 }
 //clock in homepage
